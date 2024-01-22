@@ -7,6 +7,9 @@ With the help of [Penny D Byl's Course on shaders in Unity](https://www.udemy.co
 
 ## About
 This is a silly project made for fun that contains shaders using UV-coordinates, transparency, emission and textures.
+<br>
 Basic keyframed animation
+<br>
 Particle emitter
+<br>
 Audio player
