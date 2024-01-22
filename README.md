@@ -16,4 +16,4 @@ Audio player
 
 
 https://github.com/krissendev/ShaderCat/assets/43881249/d37a99dc-16fb-4645-a9ec-6acdd078f71f
-
+(video format currently not supported for firefox & safari, will look for alternatives)
